@@ -30,3 +30,6 @@ fp-info-cache
 
 # PCBway Files
 *.kicad_pcb.zip
+
+# Word docs
+*.docx
