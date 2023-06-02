@@ -33,3 +33,5 @@ fp-info-cache
 
 # Word docs
 *.docx
+# OpenDocument Spreadsheets
+*.ods
