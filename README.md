@@ -1,4 +1,6 @@
 # Scouts-Soldering-Challenge
+
+<img src="Assembled_Example.jpg" alt="drawing" width="400"/>
  
 A soldering challenge suitable for Scouts all the way to Rovers.
 
@@ -15,3 +17,5 @@ As a member of the Australian Scouting movement, the logo has been used within t
 - 1x 10k ohm resistor
 - 1x 6x6mm push button
 - 1x Arduino Nano
+
+
