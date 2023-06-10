@@ -2115,7 +2115,7 @@
   (gr_text "GREEN" (at 182.88 76.2) (layer "B.SilkS") (tstamp e230d43c-b137-4a9c-884e-b175d8a58a1e)
     (effects (font (size 1.5 1.5) (thickness 0.3) bold) (justify left bottom mirror))
   )
-  (gr_text "Scouts Soldering Challenge V1.0 (2023)\nDesigned by Harrison {dblquote}Turtle{dblquote} Asmar" (at 190.5 124.46 90) (layer "F.SilkS") (tstamp f87494be-6692-4a0c-b0ee-6c19a8e86917)
+  (gr_text "Scouts Soldering Challenge V1.1 (2023)\nDesigned by Harrison {dblquote}Turtle{dblquote} Asmar" (at 190.5 124.46 90) (layer "F.SilkS") (tstamp f87494be-6692-4a0c-b0ee-6c19a8e86917)
     (effects (font (size 1 1) (thickness 0.15)))
   )
 
