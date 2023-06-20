@@ -44,7 +44,7 @@ void loop() {
     digitalWrite(ledPin3, HIGH);
     digitalWrite(ledPin4, HIGH);
     digitalWrite(ledPin5, HIGH);
-    Serial.write("HIGH");
+    Serial.println("HIGH");
   } else {
     // turn LED off:
     digitalWrite(ledPin1, LOW);
