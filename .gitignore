@@ -35,3 +35,6 @@ fp-info-cache
 *.docx
 # OpenDocument Spreadsheets
 *.ods
+
+# LibreOffice Lock Files
+.~lock*
