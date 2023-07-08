@@ -21,4 +21,5 @@ For more information and/or assistance with implementing this challenge in your 
 - 1x 6x6mm push button
 - 1x Arduino Nano
 
-
+## Contributing
+If there is anything that you think is missing from this repository, or you find an error, please [create an issue](<https://github.com/hasmar04/Scouts-Soldering-Challenge/issues>) or fix it yourself and create a pull request. 
