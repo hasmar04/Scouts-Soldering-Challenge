@@ -22,7 +22,7 @@ For more information and/or assistance with implementing this challenge in your 
 - 1x Arduino Nano
 
 ## Documentation
-Documentation can be found in PDF form in the [/docs](<https://github.com/hasmar04/Scouts-Soldering-Challenge/tree/main/docs>) folder. This includes:
+Documentation can be found in the [/docs](<https://github.com/hasmar04/Scouts-Soldering-Challenge/tree/main/docs>) folder. This includes:
 - Arduino IDE Installation and Getting Started
 - Arduino Programming Fundamentals
 - Procurement Guide
