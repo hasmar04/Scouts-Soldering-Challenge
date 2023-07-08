@@ -21,6 +21,8 @@ For more information and/or assistance with implementing this challenge in your 
 - 1x 6x6mm push button
 - 1x Arduino Nano
 
+More information can be found in the [Procurement Guide](/docs/Procurement Guide.md)
+
 ## Documentation
 Documentation can be found in the [/docs](<https://github.com/hasmar04/Scouts-Soldering-Challenge/tree/main/docs>) folder. This includes:
 - Arduino IDE Installation and Getting Started
